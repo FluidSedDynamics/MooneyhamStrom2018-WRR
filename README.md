@@ -3,6 +3,8 @@
 
 All data in this repository is associated with the following paper: Mooneyham, C., & Strom, K. (2018). Deposition of suspended clay to open and sand‐filled framework gravel beds in a laboratory flume. *Water Resources Research*, 54, 323–344. doi: [10.1002/2017WR020748](https://doi.org/10.1002/2017WR020748)
 
+[![DOI](https://zenodo.org/badge/135752243.svg)](https://zenodo.org/badge/latestdoi/135752243)
+
 __Methods__
 - Location: laboratory flume
 - Flume test section dimensions: 0.46 m x 0.46 m x 6.1 m
